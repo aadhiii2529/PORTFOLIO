@@ -1,73 +1,85 @@
-# PORTFOLIO
-Aadhitya M
-Ambitious Electronics and Communication Engineer
-📍 Coimbatore, India
-📧 aadhitya.m.ece.2022@snsce.ac.in | 📞 +91 63826 43143
-🔗 LinkedIn | 💻 GitHub
+# 👋 Hi, I'm Aadhitya M
 
-💡 Career Objective
-Driven and passionate Electronics and Communication Engineering student with a strong foundation in IoT, Artificial Intelligence, and communication systems. Seeking opportunities to contribute to impactful projects that fuse innovation and engineering excellence while continuing to grow as a proactive, adaptable team player in the tech industry.
+🎓 **Electronics and Communication Engineering Student**  
+📍 Coimbatore, India  
+📧 aadhitya.m.ece.2022@snsce.ac.in | 📞 +91 63826 43143  
+🔗 [LinkedIn](https://www.linkedin.com/in/aadhitya-m-sns) | 💻 [GitHub](https://github.com/aadhiii2529)
 
-🛠️ Technical Skills
-Languages: Python (Proficient), Java (Intermediate)
+---
 
-Tools: Git & GitHub, Arduino, Sensors & Microcontrollers
+## 💡 Career Objective
+Ambitious and forward-thinking engineering student passionate about IoT, Artificial Intelligence, and modern communication systems. I aim to contribute to technological advancements through innovative projects and collaborative engineering efforts.
 
-Domains: IoT, AI Technology, Communication Networking
+---
 
-🧠 Soft Skills
-Adaptability & Quick Learning
+## 🛠️ Technical Skills
 
-Team Management & Multitasking
+- **Languages:** Python (Proficient), Java (Intermediate)
+- **Tools:** Git & GitHub, Arduino, Sensors & Microcontrollers
+- **Domains:** Internet of Things, AI Technology, Communication Networking
 
-Problem Solving & Analytical Thinking
+---
 
-📚 Education
-B.E. Electronics and Communication Engineering
-SNS College of Engineering | 2022 – 2026
-CGPA: 7.8
+## 🤝 Soft Skills
 
-Higher Secondary Certificate (HSC)
-Amrita Vidyalayam, Coimbatore | 2019 – 2020
-Score: 76.8%
+- Adaptability & Quick Learning  
+- Team Management & Multitasking  
+- Problem Solving & Analytical Thinking  
 
-Secondary School Leaving Certificate (SSLC)
-Teresa Spinelli Public School, Kochi | 2018
-Score: 79.5%
+---
 
-🔬 Projects
-🟢 IoT-Based Water Level Detection System
-Technologies: Arduino Uno, Ultrasonic Sensor
+## 🎓 Education
 
-Developed an automated system to prevent water wastage by cutting off the power supply to a water motor based on level detection.
+**B.E. Electronics and Communication Engineering**  
+_SNS College of Engineering (2022 – 2026)_  
+📊 CGPA: 7.8
 
-Reduced water wastage by up to 30%.
+**Higher Secondary Certificate (HSC)**  
+_Amrita Vidyalayam, Coimbatore (2019 – 2020)_  
+📈 Score: 76.8%
 
-🌱 Agro Dehydrator System
-Technologies: AI, IoT, Solar Power
+**SSLC**  
+_Teresa Spinelli Public School, Kochi (2018)_  
+📈 Score: 79.5%
 
-Built a hybrid dehydration system for high-moisture vegetables using solar and electrical energy.
+---
 
-Integrated adaptive climate control to preserve freshness and extend shelf life.
+## 🔬 Projects
 
-💼 Internships
-🔧 Raghave Industries – 21 Days
-Gained hands-on experience in metal manufacturing and fabrication.
+### 📟 IoT-Based Water Level Detection System  
+**Tech Stack:** Arduino Uno, Ultrasonic Sensor  
+- Built an automation system to detect and manage water tank levels.
+- Enabled automatic cut-off of water supply and power, reducing wastage by 30%.
 
-Worked with components such as frames, containers, and conveyors.
+### 🌿 Agro Dehydrator System  
+**Tech Stack:** IoT, AI, Solar Power  
+- Developed a hybrid dehydration system for vegetables with high moisture.
+- Improved shelf life using adaptive climate control and hybrid power sources.
 
-Strengthened understanding of industrial assembly and structural design.
+---
 
-📜 Certifications
-Python Programming
+## 🧪 Internships
 
-Git & GitHub
+### 🏭 Raghave Industries (21 Days)  
+- Learned practical fabrication and metal manufacturing techniques.
+- Worked with mechanical frames, conveyors, and container assemblies.
 
-Verbal Aptitude
+---
 
-🌍 Languages
-English (Fluent)
+## 📜 Certifications
 
-Hindi (Intermediate)
+- Python Programming  
+- Git & GitHub  
+- Verbal Aptitude  
 
-Malayalam (Intermediate)
+---
+
+## 🌐 Languages
+
+- English (Fluent)  
+- Hindi (Intermediate)  
+- Malayalam (Intermediate)
+
+---
+
+> ✨ _“Always open to collaborate on innovative and tech-driven projects!”_
